@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /usr/local/bashProject
-imgcat qhq.png
+cat qhq.png | imgcat
 ./qaq
 #imgcat qhq2.png
